@@ -1,37 +1,83 @@
-<h1 align="center">Hi 👋, I'm Devansh Agarwal</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Devansh Agarwal</h1>
+<h3 align="center">💻 Full-Stack Developer in Progress | India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshaadhya-code&label=Profile%20views&color=0e75b6&style=flat" alt="devanshaadhya-code" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshaadhya-code" alt="devanshaadhya-code" /></a> </p>
-
-- 💻 Full-Stack Developer in the making
- 
--⚡ Currently mastering **JavaScript, React, Node.js**  
-
--🚀 Building cool projects & learning every day  
-
--🌍 From India | Open to collaborations 
-
-### 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript, React  
-- Backend: Node.js, Express  
-- Database: MongoDB, MySQL  
-- Tools: Git, GitHub, VS Code  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devansh agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh agarwal" height="30" width="40" /></a>
-<a href="https://instagram.com/_devanshag._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_devanshag._" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@devanshaadhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@devanshaadhya" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/devansh_agarwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devansh_agarwal_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devansh_agarwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devansh_agarwal_" height="30" width="40" /></a>
+<!-- Typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Code.+Build.+Learn.+Repeat." alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshaadhya-code&show_icons=true&locale=en&layout=compact" alt="devanshaadhya-code" /></p>
+## 🚀 About Me
+- 🔭 Currently learning **MERN Stack**  
+- ⚡ Love exploring **open-source & real-world projects**  
+- 🎯 Focused on writing clean, efficient, and scalable code  
+- ☕ Code + Gym + Repeat = My lifestyle  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshaadhya-code&show_icons=true&locale=en" alt="devanshaadhya-code" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshaadhya-code&" alt="devanshaadhya-code" /></p>
+## 🛠 Tech Stack
+
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Backend & DB:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev0ps404&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev0ps404&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0ps404&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="mailto:devanshaadhya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devansh-agarwal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Devansh_Agarwal_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/devanshaadhya" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+## 💡 Quote to Code By
+*"First, solve the problem. Then, write the code."*
+-
+---
+
+### ✨ Fun Fact  
+⚡ *“Code, sleep, gym, repeat — that’s the Devansh way 💯”*
+-
