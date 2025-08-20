@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Python ,C,HTML,CSS**
+- 💬 Ask me about **Python, C, HTML, CSS**
 
 - 📫 How to reach me **devanshaadhya@gmail.com**
 
