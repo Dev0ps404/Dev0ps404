@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshaadhya-code" alt="devanshaadhya-code" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **Python, C, HTML, CSS**
-
-- 📫 How to reach me **devanshaadhya@gmail.com**
-
-- ⚡ Fun fact **I wrote my first "Hello World at 2AM".**
+- 💻 Full-Stack Developer in the making  
+⚡ Currently mastering **JavaScript, React, Node.js**  
+🚀 Building cool projects & learning every day  
+🌍 From India | Open to collaborations 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
