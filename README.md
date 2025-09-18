@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm Devansh Agarwal</h1>
+<h1 align="center"> Hi, I'm Devansh Agarwal</h1>
 <h3 align="center">💻 Full-Stack Developer in Progress | India 🇮🇳</h3>
 
 ---
