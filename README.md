@@ -50,6 +50,17 @@
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0ps404&theme=react-dark&hide_border=true" /> 
 </p>
 
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev0ps404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0ps404&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev0ps404&theme=radical&hide_border=true&background=0D1117&ring=FF4D8D&fire=FF4D8D&currStreakNum=FF4D8D&sideNums=FF4D8D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF" />
+</p>
+
 ---
 
 ## 🌐 Connect with Me    
