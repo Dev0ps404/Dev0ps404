@@ -42,13 +42,15 @@
 
 ## 📊 GitHub Analytics  
 
+## 📊 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev0ps404&show_icons=true&theme=radical" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Dev0ps404&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev0ps404&show_icons=true&theme=radical" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Dev0ps404&theme=radical" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0ps404&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev0ps404&theme=github-compact&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
