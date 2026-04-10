@@ -12,19 +12,26 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently learning **MERN Stack**  
-- ⚡ Love exploring **open-source & real-world projects**  
-- 🎯 Focused on writing clean, efficient, and scalable code  
+
+<table>
+<tr>
+<td width="60%">
+
+- 🌱 Currently learning **MERN Stack**
+- ⚡ Love exploring **open-source & real-world projects**
+- 🎯 Focused on writing clean, efficient, scalable code
 - ☕ Code + Gym + Repeat = My lifestyle
 - 📫 Reach me at **devanshaadhya@gmail.com**
-- ⚡ Fun fact: I love Basketball 🏀, Drawing ✏️, Travelling 🌍 and Coding 💻  
-- 
+- ⚡ Fun fact: I love Basketball 🏀, Drawing 🎨, Travelling 🌍 and Coding 💻
 
----
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" />
-</p>
+</td>
 
+<td width="40%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+</td>
+
+</tr>
+</table>
 ## 🛠 Tech Stack
 
 **Frontend:**  
