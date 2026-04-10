@@ -32,6 +32,7 @@
 
 </tr>
 </table>
+
 ## 🛠 Tech Stack
 
 **Frontend:**  
