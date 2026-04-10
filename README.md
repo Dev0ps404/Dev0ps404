@@ -15,9 +15,24 @@
 - 🔭 Currently learning **MERN Stack**  
 - ⚡ Love exploring **open-source & real-world projects**  
 - 🎯 Focused on writing clean, efficient, and scalable code  
-- ☕ Code + Gym + Repeat = My lifestyle  
+- ☕ Code + Gym + Repeat = My lifestyle
+- 📫 Reach me at **devanshaadhya@gmail.com**
+- ⚡ Fun fact: I love Basketball 🏀, Drawing ✏️, Travelling 🌍 and Coding 💻  
+- 
 
 ---
+<h1 align="center">Hi 👋, I'm Devansh</h1>
+<h3 align="center">A passionate Software Engineer from India 🇮🇳</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
+
+---
+
+## 🖼️ Illustration
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+</p>
 
 ## 🛠 Tech Stack
 
