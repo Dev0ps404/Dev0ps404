@@ -193,9 +193,9 @@ src="https://streak-stats.demolab.com?user=Dev0ps404&theme=radical&hide_border=t
 
 | Project | Description |
 |---------|-------------|
-| **PrepAI** | AI Powered Interview Preparation Platform |
-| **TechForge** | Developer Resource Sharing Platform |
-| **RouteSync** | AI Smart Route Optimization Platform |
+| **BudgetBuddy** | Personal Finance & Expense Tracking Platform |
+| **TechForge** | AI Powered Interview Preparation Platform |
+| **Pigeon** | Real-Time Live Chat & Instant Messaging Platform |
 | **IntelliQueue** | AI Powered Queue Management System |
 
 ---
