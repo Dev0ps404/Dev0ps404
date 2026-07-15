@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: Dev0ps404
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FFFFFF&color_dots=%233A3A3A,%233B82F6,%236366F1,%238B5CF6,%23C084FC
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FFFFFF&color_dots=%23555555,%233B82F6,%236366F1,%238B5CF6,%23C084FC
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
