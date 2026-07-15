@@ -14,17 +14,17 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Generate Snake
+      - name: Generate GitHub Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: Dev0ps404
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23800080&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23800080
 
-      - name: Push Snake
+      - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
