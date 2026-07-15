@@ -322,12 +322,4 @@ Others       ██░░░░░░░░░░░░░░░   4%
 
 ---
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical&width=100%" />
 
-</p>
-
-<p align="center">
-
-### ⭐ From [Devansh Agarwal](https://github.com/Dev0ps404) with ❤️
-
-</p>
