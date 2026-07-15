@@ -170,6 +170,12 @@ src="https://streak-stats.demolab.com?user=Dev0ps404&theme=radical&hide_border=t
 
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dev0ps404/Dev0ps404/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+---
 
 # 🎯 Current Focus
 
@@ -202,17 +208,6 @@ src="https://streak-stats.demolab.com?user=Dev0ps404&theme=radical&hide_border=t
 * ✔ Hackathon Participant
 * ✔ Continuous Learner
 
-
-
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dev0ps404/Dev0ps404/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
----
 
 
 
