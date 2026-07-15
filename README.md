@@ -309,7 +309,7 @@ Others       ██░░░░░░░░░░░░░░░   4%
 
 ---
 
-# 🎯 Fun Fact
+# 🎯 My Way
 
 <div align="left">
 
@@ -321,24 +321,6 @@ Others       ██░░░░░░░░░░░░░░░   4%
 </div>
 
 ---
-
-# ❤️ Thanks for Visiting
-
-<p align="center">
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
-
-</p>
-
-<p align="center">
 
 <img src="https://readme-jokes.vercel.app/api?theme=radical&width=100%" />
 
