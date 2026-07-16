@@ -4,8 +4,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,50:0F172A,100:06B6D4&text=FULL%20STACK&DEVELOPER&fontColor=FFFFFF&fontSize=46&animation=fadeIn"/>
 
+<p align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Dev0ps404...;%3E+Loading+Portfolio...;%3E+Compiling+Java...;%3E+Building+MERN+Projects..."/>
+</p>
+</div>
 <h1 align="center">
   Hi 👋, I'm Devansh Agarwal
 </h1>
