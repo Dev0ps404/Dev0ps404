@@ -2,6 +2,10 @@
 <!--                    PREMIUM HEADER                     -->
 <!-- ===================================================== -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,50:0F172A,100:06B6D4&text=FULL%20STACK&DEVELOPER&fontColor=FFFFFF&fontSize=46&animation=fadeIn"/>
+
 <h1 align="center">
   Hi 👋, I'm Devansh Agarwal
 </h1>
