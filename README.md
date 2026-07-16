@@ -330,4 +330,10 @@ Others       ██░░░░░░░░░░░░░░░   4%
 
 ---
 
+<div align="center">
+  
+### ⭐ Thanks for visiting my profile!
+  
+**Learn • Build • Innovate • Repeat**
 
+</div>
